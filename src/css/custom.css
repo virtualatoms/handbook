@@ -42,11 +42,11 @@
 
 .dsla-search-field button {
   background: transparent;
-  border: 1px solid black;
+  border: 1px solid var(--ifm-toc-border-color);
   border-radius: 10rem;
-  color: black;
+  color: var(--ifm-color-gray-700);
 }
 
 .aa-DetachedSearchButtonIcon svg {
-  color: #000;
+  color: var(--ifm-color-gray-700);
 }
