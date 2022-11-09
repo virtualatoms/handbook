@@ -9,3 +9,4 @@ id: before-you-arrive
 
 - Do online induction.
 - Finding accomodation in London.
+- To do list for first week
