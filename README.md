@@ -1,4 +1,4 @@
-View at handbook.virtualatoms.org
+View at [handbook.virtualatoms.org](https://handbook.virtualatoms.org)
 
 # Virtual Atoms Handbook
 
