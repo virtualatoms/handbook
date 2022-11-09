@@ -156,10 +156,6 @@ article a:hover {
   display: none;
 }
 
-.theme-doc-sidebar-menu {
-  padding-top: 20px;
-  margin-left: 20px;
-}
 
 .menu.thin-scrollbar::-webkit-scrollbar {
   width: 0px;
@@ -176,6 +172,7 @@ article a:hover {
   padding: 0px;
 }
 
+@media(min-width: 810px) {
 .navbar__logo {
   height: 3rem !important;
   margin-left:14px;
@@ -186,6 +183,12 @@ article a:hover {
   height: 3rem !important;
   margin-left:14px;
   margin-top:8px;
+}
+
+.theme-doc-sidebar-menu {
+  padding-top: 20px;
+  margin-left: 20px;
+}
 }
 
 .iconExternalLink_nPIU {
@@ -205,4 +208,18 @@ article a:hover {
 }
 .admonitionHeading_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-styles-module {
   font-family: var(--ifm-font-family-base) !important;
+}
+
+@media(max-width: 450px)  {
+.dsla-search-wrapper {
+  position: relative;
+  right: -30px;
+}
+}
+
+@media(max-width: 350px)  {
+  .dsla-search-wrapper button {
+    width: 100px;
+   right: -60px;
+  }
 }
