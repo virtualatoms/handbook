@@ -1,4 +1,6 @@
-# Website
+View at handbook.virtualatoms.org
+
+# Virtual Atoms Handbook
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
