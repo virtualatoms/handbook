@@ -2,42 +2,31 @@ View at [handbook.virtualatoms.org](https://handbook.virtualatoms.org)
 
 # Virtual Atoms Handbook
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This repository contains the content and code for the Virtual Atoms group handbook.
+This website is built using [Docusaurus 2](https://docusaurus.io/). The page contents can 
+be found in the `docs` directory and are stored as markdown files.
 
-### Installation
+### Requirements
 
-```
-$ yarn
-```
+Docusaurus and additional plugins needed for building the website can be installed through
 
-### Local Development
-
-```
-$ yarn start
+```bash
+npm install
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### Local development
 
-### Build
+For development purposes, a local web server with automatic refresh is provided.
+This command starts a local development server and opens up a browser window:
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```bash
+npm start
 ```
 
-Not using SSH:
+### Building the production site
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+To build the site for production, static content will be compiled into the `build` directory and can be served using any static contents hosting service:
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+```bash
+npm run build
+```
