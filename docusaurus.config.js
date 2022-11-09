@@ -28,6 +28,10 @@ const config = {
     locales: ['en'],
   },
 
+  stylesheets: [
+    "https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&family=Eczar:wght@600&display=swap"
+  ],
+
   presets: [
     [
       'classic',
@@ -63,7 +67,7 @@ const config = {
         items: [
           {
             href: 'https://virtualatoms.org',
-            label: 'Group Website',
+            label: 'virtualatoms.org',
             position: 'right',
           },
         ],

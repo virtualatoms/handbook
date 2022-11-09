@@ -10,16 +10,41 @@
   --aa-muted-color-rgb: 7, 89, 133 !important;
 
   /* --ifm-navbar-height: 88px; */
-  --ifm-color-primary: #075985;
+  --ifm-color-primary: #1a1929;
   --ifm-color-primary-dark: #065078;
   --ifm-color-primary-darker: #064c71;
   --ifm-color-primary-darkest: #053e5d;
   --ifm-color-primary-light: #086292;
   --ifm-color-primary-lighter: #086699;
   --ifm-color-primary-lightest: #0974ad;
+
+  /* Hide nav and sidebar borders */
+  --ifm-toc-border-color: #ffffff; 
+  --ifm-navbar-shadow: none;
+  --doc-sidebar-width: 345px !important;
   
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* Remove sidebar highlights */
+  --ifm-menu-color-background-active: white;
+
+  /* Fonts */
+  --ifm-font-family-base: "Work Sans", system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont,
+  'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
+  'Segoe UI Emoji', 'Segoe UI Symbol';
+  --ifm-heading-font-family: "Eczar", "Work Sans", system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont,
+  'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
+  'Segoe UI Emoji', 'Segoe UI Symbol';
+  --ifm-font-size-base: 1.125rem;
+  --ifm-line-height-base: 1.65rem;
+  --ifm-font-color-base: #1a1929;
+  --ifm-menu-color-active: #1a1929; 
+
+  -webkit-font-smoothing: subpixel-antialiased;
+
+  --ifm-link-hover-decoration: none;
+  
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -31,6 +56,7 @@
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
+  --ifm-toc-border-color: #ffffff; 
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -42,11 +68,126 @@
 
 .dsla-search-field button {
   background: transparent;
-  border: 1px solid var(--ifm-toc-border-color);
+  border: 1px solid var(--ifm-color-gray-300);
   border-radius: 10rem;
   color: var(--ifm-color-gray-700);
 }
 
 .aa-DetachedSearchButtonIcon svg {
   color: var(--ifm-color-gray-700);
+}
+
+/* Hide TOC */
+.theme-doc-toc-desktop {
+  display: none;
+}
+
+.theme-doc-toc-mobile {
+  display: none;
+}
+
+.col--3 {
+  display: none;
+}
+
+/* Make active sidebar page bold */
+.menu__link--active {
+  font-weight: 600;
+}
+ .menu__link--sublist-caret {
+  font-weight: 400;
+  border-style: solid;
+  border-width: 0px;
+  /* border-bottom-width: 1px; */
+  color: var(--ifm-menu-color);
+  margin-top: 15px;
+ }
+
+ .menu__link--sublist-caret::after {
+  content: none;
+ }
+
+ .pagination-nav__link {
+  border: none;
+ }
+
+article a {
+  font-weight: 600;
+  border-style: solid;
+  border-width: 0px;
+  border-bottom-width: 1px;
+  border-color: #e5e7eb;
+}
+
+article a:hover {
+  border-width: 0px;
+  border-bottom-width: 4px;
+}
+
+.menu__list-item-collapsible:hover {
+  background: none;
+
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+}
+
+.menu__list-item-collapsible {
+  background: none;
+
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+}
+.menu__list-item-collapsible  a {
+  font-weight:600;
+  /* color: #facc15; */
+}
+
+.menu {
+  font-weight: 400;
+}
+
+.iconExternalLink_node_modules-\@docusaurus-theme-classic-lib-theme-Icon-ExternalLink-styles-module {
+  display: none;
+}
+
+.iconEdit_node_modules-\@docusaurus-theme-classic-lib-theme-Icon-Edit-styles-module {
+  display: none;
+}
+
+.theme-doc-sidebar-menu {
+  padding-top: 20px;
+  margin-left: 20px;
+}
+
+.menu.thin-scrollbar::-webkit-scrollbar {
+  width: 0px;
+}
+
+.navbar__items a:hover {
+  color: #70727d;
+}
+.pagination-nav__label:hover {
+  color: #70727d;
+}
+
+.pagination-nav__link {
+  padding: 0px;
+}
+
+.navbar__logo {
+  height: 3rem !important;
+  margin-left:14px;
+  margin-top:5px;
+}
+
+.sidebarLogo_node_modules-\@docusaurus-theme-classic-lib-theme-DocSidebar-Desktop-styles-module img {
+  height: 3rem !important;
+  margin-left:14px;
+  margin-top:8px;
+}
+
+.navbar--fixed-top {
+  position: relative;
 }
