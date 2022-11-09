@@ -188,6 +188,14 @@ article a:hover {
   margin-top:8px;
 }
 
+.iconExternalLink_nPIU {
+  display: none;
+}
+
+.iconEdit_Z9Sw {
+  display: none;
+}
+
 .navbar--fixed-top {
   position: relative;
 }
