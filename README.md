@@ -8,6 +8,13 @@ be found in the `docs` directory and are stored as markdown files.
 
 ### Requirements
 
+The website requires node.js to be installed. On macOS, this is simple if
+[homebrew](https:/brew.sh) is installed. Just run
+
+```bash
+brew install node
+```
+
 Docusaurus and additional plugins needed for building the website can be installed through
 
 ```bash
