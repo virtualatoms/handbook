@@ -175,7 +175,7 @@ article a:hover {
 @media(min-width: 810px) {
 .navbar__logo {
   height: 3rem !important;
-  margin-left:14px;
+  padding-left:14px;
   margin-top:5px;
 }
 
@@ -184,7 +184,12 @@ article a:hover {
   margin-left:14px;
   margin-top:8px;
 }
+.sidebarLogo_isFc {
+  height: 3rem !important;
+  margin-left:14px;
+  margin-top:8px;
 
+}
 .theme-doc-sidebar-menu {
   padding-top: 20px;
   margin-left: 20px;
@@ -213,7 +218,7 @@ article a:hover {
 @media(max-width: 450px)  {
 .dsla-search-wrapper {
   position: relative;
-  right: -30px;
+  right: -15px;
 }
 }
 
