@@ -5,6 +5,8 @@ id: before-you-arrive
 
 # Before You Arrive
 
+Welcome to Imperial and the Virtual Atoms Lab! This section will give you a general guide on how to get prepare for your study here. Here lists several essential things you are supposed to finish before your arrival, especially for new PhD students. Some of them might not be applicable for postdoctor or vistors, please refer to imperial webpage for more information.
+
 **College Email**
 
 Activate your imperial email account. After accepting the unconditional offer, an email account and address will be automatically allocated. You might recieve notification email shotly before the term start. Follow the instructions on [Imperial support services](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/email/) page.
