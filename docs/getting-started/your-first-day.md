@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Your First Day
 
-Welcome to Imperial and the Virtual Atoms Lab! Here is a checklist to help you get started. This assumes you have already completed
+Welcome to Imperial and the Virtual Atoms Lab! Here is a checklist to help you get started. You should have already completed
 the online induction outlined in the [Before you Arrive page](./before-you-arrive).
 
 ## First Day Checklist
@@ -26,17 +26,12 @@ the online induction outlined in the [Before you Arrive page](./before-you-arriv
 
 **Doctoral Academic Communication Requirement (DACR)**
 
-Check [Imperial DACR](https://www.imperial.ac.uk/academic-english/current-students/doctoral/academic-communication-requirement/) page whether you fulfilling the exemption requirements. Otherwise, DACR assessment 1 and 2 would be necessary. Assessment 1 should be finished within 3 months of the registration date. 
+Check [Imperial DACR](https://www.imperial.ac.uk/academic-english/current-students/doctoral/academic-communication-requirement/) page whether you fulfil the exemption requirements. Otherwise, DACR Assessments 1 and 2 would be necessary. You must complete Assessment 1 within three months of your registration date. 
 
 **English Language Classe**
 
-Check the [Centre for Academic English](https://www.imperial.ac.uk/academic-english) to find more details about mandatory language course. All students whose native language is not English are required to attend English Language classes in the first year. Remember to registrate the courses in time, it closes early each term.
+Check the [Centre for Academic English](https://www.imperial.ac.uk/academic-english) for more details about mandatory language courses. All students whose native language is not English must attend English Language classes in their first year. Remember to register for the courses on time; they close early each term.
 
 **Late starter**
 
-For those who start their study later than beginning of the academic session, send an email to [PG Tutor](https://www.imperial.ac.uk/chemistry/postgraduate/phd/pastoral-support/). They will arrange a meeting with you, and explain the pastoral care available to you.
-
-
-
-
-
+For those who start their study later than the beginning of the academic session, send an email to [PG Tutor](https://www.imperial.ac.uk/chemistry/postgraduate/phd/pastoral-support/). They will arrange a meeting with you and explain the pastoral care available to you.
