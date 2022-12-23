@@ -14,10 +14,10 @@ act as a repository for knowledge in the group and to help
 new group members find their feet as quickly as possible.
 
 Everyone is welcome to contribute to the handbook. Our newest 
-members often have the most valuable insight and when Imperial policys
+members often have the most valuable insight, and when Imperial policies
 change there may be critical gaps in the handbook. At the bottom of
 every page is an "Edit" link which will take you to GitHub where you 
-can make changes. More details on contributing can be found on the
+can make changes. You can find more details on contributing on the
 Contributing Guidelines page.
 
 :::caution
@@ -33,6 +33,6 @@ The Virtual Atoms Lab does research at the interface of chemistry,
 physics, materials, and computer science. Fundamentally, we use
 computational tools to discover, design, and optimise functional
 materials, particularly for energy applications (photovoltaics,
-thermoelectrics, electrolytes).
+thermoelectrics, and electrolytes).
 We are based at the Molecular Sciences Research Hub in White City in 
 west London.
