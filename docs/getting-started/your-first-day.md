@@ -4,8 +4,19 @@ sidebar_position: 2
 
 # Your First Day
 
-Welcome to Imperial and the Virtual Atoms Lab! Here is a checklist to help you get started. You should have already completed
+Welcome to Imperial and the Virtual Atoms Lab! You are now a member of our group! Congratulations!!! :)
+
+Don't forget to say hello to our supervisor Alex (you can try to find him somewhere in MSRH building)! And remind him to add you to the "Virtual Atoms" imperial group (Slack & outlook).Visit our group [one drive](https://imperiallondon.sharepoint.com/sites/virtualatoms-CH/Shared%20Documents/Forms/AllItems.aspx?viewid=083c3a64%2D96d1%2D43b9%2Db244%2D1cc26fc0b800)  folder to find out files, videos and packages that might be useful for your future research. Feel free to upload anyting you want to share with the group! 
+
+**How to find other group members**
+
+At present, our group locates at the southeast corner of 109 Molecular Modeling Lab. Go straight to the last row, three seats close to the window belong to Alex's group. Choose one table you would prefer, and there would be your seat for next a few years! 
+
+*A small tip: make some noise when you try to approaching the seat closest to window, otherwise you might scare her!*
+
+Now let's start from finishing safety inductions. Here is a checklist to help you get started. You should have already completed
 the online induction outlined in the [Before you Arrive page](./before-you-arrive).
+
 
 ## First Day Checklist
 - [College Day 1 Safety Indcution](https://www.imperial.ac.uk/staff-development/safety-training/induction/)
