@@ -8,7 +8,7 @@ There might be several conferences each year during PhD period. It would be a gr
 
 **Expense Claim**
 
-Fill out the [Expense Claim form](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/finance/internal/expense_claim_excel.xls). Ask Alex for the account code(Cost Center and Activity/Project No.). The signature of both yourself and supervisor is required. When everything is done, send to [Ajimal, Perminder](p.ajimal@imperial.ac.uk). Make sure you collect the receipts for each of these and then email them along with the spreadsheet.
+Fill out the [Expense Claim form](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/finance/internal/expense_claim_excel.xls). Ask Alex for the account code(Cost Center and Activity/Project No.). The signature of both yourself and supervisor is required. When everything is done, send to [Ajimal, Perminder](mailto:p.ajimal@imperial.ac.uk). Make sure you collect the receipts for each of these and then email them along with the spreadsheet.
 
 Following are the items that could be included: 
 - Conference Registration fee
