@@ -10,7 +10,7 @@ Don't forget to say hello to our supervisor Alex (you can try to find him somewh
 
 **How to find other group members**
 
-At present, our group locates at the southeast corner of 109 Molecular Modeling Lab. Go straight to the last row, three seats close to the window belong to Alex's group. Choose one table you would prefer, and there would be your seat for next a few years! 
+At present, our group locates at the southeast corner of 109 Computational Modeling Lab. Go straight to the last row, three seats close to the window belong to Alex's group. Choose one table you would prefer, and there would be your seat for next a few years! 
 
 *A small tip: make some noise when you try to approaching the seat closest to window, otherwise you might scare her!*
 
