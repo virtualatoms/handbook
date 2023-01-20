@@ -4,17 +4,17 @@ sidebar_position: 2
 
 # Your First Day
 
-Welcome to Imperial and the Virtual Atoms Lab! You are now a member of our group! Congratulations!!! :)
+Welcome to Imperial and the Virtual Atoms Lab! You are now a member of our group, congratulations! :)
 
-Don't forget to say hello to our supervisor Alex (you can try to find him somewhere in MSRH building)! And remind him to add you to the "Virtual Atoms" imperial group (Slack & outlook).Visit our group [one drive](https://imperiallondon.sharepoint.com/sites/virtualatoms-CH/Shared%20Documents/Forms/AllItems.aspx?viewid=083c3a64%2D96d1%2D43b9%2Db244%2D1cc26fc0b800)  folder to find out files, videos and packages that might be useful for your future research. Feel free to upload anyting you want to share with the group! 
+Don't forget to say hello to Alex. You can find him in room 301E in the Molecular Science Research Hub. Ask Alex to add you to the Virtual Atoms Group Slack and [OneDrive](https://imperiallondon.sharepoint.com/sites/virtualatoms-CH/Shared%20Documents/Forms/AllItems.aspx?viewid=083c3a64%2D96d1%2D43b9%2Db244%2D1cc26fc0b800). The OneDrive folder contains files, videos, and codes that will be useful for your future research. Feel free to upload anything you want to share with the group.
 
 **How to find other group members**
 
-At present, our group locates at the southeast corner of 109 Computational Modeling Lab. Go straight to the last row, three seats close to the window belong to Alex's group. Choose one table you would prefer, and there would be your seat for next a few years! 
+Our group sits in the far right corner of room 109 (the Computational Modeling Lab). Go straight to the last row, the three seats close to the window belong to Alex's group.
 
-*A small tip: make some noise when you try to approaching the seat closest to window, otherwise you might scare her!*
+*A small tip: make some noise when you approach the seat closest to the window, otherwise you might scare Ruiqi!*
 
-Now let's start from finishing safety inductions. Here is a checklist to help you get started. You should have already completed
+Now let's start finishing safety inductions. Here is a checklist to help you get started. You should have already completed
 the online induction outlined in the [Before you Arrive page](./before-you-arrive).
 
 
@@ -37,12 +37,12 @@ the online induction outlined in the [Before you Arrive page](./before-you-arriv
 
 **Doctoral Academic Communication Requirement (DACR)**
 
-Check [Imperial DACR](https://www.imperial.ac.uk/academic-english/current-students/doctoral/academic-communication-requirement/) page whether you fulfil the exemption requirements. Otherwise, DACR Assessments 1 and 2 would be necessary. You must complete Assessment 1 within three months of your registration date. 
+Check [Imperial DACR](https://www.imperial.ac.uk/academic-english/current-students/doctoral/academic-communication-requirement/) page whether you fulfil the exemption requirements. Otherwise, DACR Assessments 1 and 2 are necessary. You must complete Assessment 1 within three months of your registration date. 
 
 **English Language Classe**
 
-Check the [Centre for Academic English](https://www.imperial.ac.uk/academic-english) for more details about mandatory language courses. All students whose native language is not English must attend English Language classes in their first year. Remember to register for the courses on time; they close early each term.
+Check the [Centre for Academic English](https://www.imperial.ac.uk/academic-english) for more details about mandatory language courses. All students whose native language is not English must attend English language classes in their first year. Remember to register for the courses on time; they close early each term.
 
-**Late starter**
+**Late starters**
 
-For those who start their study later than the beginning of the academic session, send an email to [PG Tutor](https://www.imperial.ac.uk/chemistry/postgraduate/phd/pastoral-support/). They will arrange a meeting with you and explain the pastoral care available to you.
+For those who start their study later than the beginning of the academic term (typically 1st October), send an email tothe [PG Tutor](https://www.imperial.ac.uk/chemistry/postgraduate/phd/pastoral-support/). They will arrange a meeting with you and explain the pastoral care available to you.
