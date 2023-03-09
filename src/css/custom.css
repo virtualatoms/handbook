@@ -19,10 +19,10 @@
   --ifm-color-primary-lightest: #0974ad;
 
   /* Hide nav and sidebar borders */
-  --ifm-toc-border-color: #ffffff; 
+  --ifm-toc-border-color: #ffffff;
   --ifm-navbar-shadow: none;
   --doc-sidebar-width: 345px !important;
-  
+
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
@@ -39,12 +39,12 @@
   --ifm-font-size-base: 1.125rem;
   --ifm-line-height-base: 1.65rem;
   --ifm-font-color-base: #1a1929;
-  --ifm-menu-color-active: #1a1929; 
+  --ifm-menu-color-active: #1a1929;
 
-  -webkit-font-smoothing: subpixel-antialiased;
+  -webkit-font-smoothing: antialiased;
 
   --ifm-link-hover-decoration: none;
-  
+
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -56,7 +56,7 @@
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
-  --ifm-toc-border-color: #ffffff; 
+  --ifm-toc-border-color: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
