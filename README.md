@@ -4,7 +4,7 @@ View at [handbook.virtualatoms.org](https://handbook.virtualatoms.org)
 
 This repository contains the content and code for the Virtual Atoms group handbook.
 This website is built using [Docusaurus 2](https://docusaurus.io/). The page contents can 
-be found in the `docs` directory and are stored as markdown files.
+be found in the [`docs`](https://github.com/virtualatoms/handbook/tree/main/docs) directory and are stored as markdown files.
 
 ### Requirements
 
