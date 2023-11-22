@@ -10,7 +10,7 @@ Once you've identified a conference and discussed it with Alex, remember to regi
 
 ### Expense Claims
 
-Fill out the [Expense Claim form](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/finance/internal/expense_claim_excel.xls). Ask Alex for the account code (cost centre and activity/project number). Both you and Alex need to sign the form. When everything is done, send the form to [Ajimal, Perminder](mailto:p.ajimal@imperial.ac.uk). Make sure you collect the receipts for each of these and then email them along with the spreadsheet.
+Fill out the [Expense Claim form](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/finance/internal/expense_claim_excel.xls). Ask Alex for the account code (cost centre and activity/project number). Both you and Alex need to sign the form. When everything is done, send the form to [Ajimal, Perminder](mailto:p.ajimal@imperial.ac.uk) and CC [Ganose, Alexander M](a.ganose@imperial.ac.uk). Make sure you collect the receipts for each of these and then email them along with the spreadsheet.
 
 The following are items that can be expensed: 
 - Conference registration fee
