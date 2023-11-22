@@ -36,7 +36,3 @@ materials, particularly for energy applications (photovoltaics,
 thermoelectrics, and electrolytes).
 We are based at the Molecular Sciences Research Hub in White City in 
 west London.
-
-## Group internal notes
-
-1: When sending the expense claim emails to the admin staff, please CC Alex.
