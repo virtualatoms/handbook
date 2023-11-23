@@ -23,6 +23,10 @@ Remember to apply for your ATAS as soon as you get the offer! An ATAS certificat
 
 Your Confirmation of Acceptance for Studies [CAS](https://www.imperial.ac.uk/students/international-students/visas-and-immigration/cas/) is almost there. You may need to wait for a couple of days to be notified. Log into [My Imperial](https://my.imperial.ac.uk) using your college username and password to review your CAS statement.
 
+**Visa**
+
+Ensure you have a valid UK visa to enter the UK before booking your flight, as all the information related to the visa is listed on the [International student support](https://www.imperial.ac.uk/students/international-students/visas-and-immigration/student-route-visa/)
+
 **Others**
 - Upload Imperial College London ID photo.
 - [Online registration and enrolment](https://www.imperial.ac.uk/students/new-students/postgraduates/before-you-arrive/registration/online-registration/).
